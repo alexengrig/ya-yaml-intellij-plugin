@@ -1,0 +1,21 @@
+<idea-plugin>
+    <id>dev.alexengrig.intellij.plugins.ya-yaml-intellij-plugin</id>
+    <name>Yet another YAML</name>
+    <vendor email="alexengrigdev@gmail.com" url="https://github.com/alexengrig/ya-yaml-intellij-plugin">
+        Grig Alex
+    </vendor>
+    <category>Languages</category>
+    <description><![CDATA[
+    Adds some useful features for the <a href="https://yaml.org/">YAML</a> language.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
